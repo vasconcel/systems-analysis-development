@@ -2,7 +2,7 @@
 
 ## Overview
 
-*   **Degree:** Associate's degree
+*   **Degree:** Technologist Degree
 *   **Institution:** [Universidade Federal do Cariri (UFCA)](https://ufca.edu.br/)
 *   **Status:** Actively Maintained
 
